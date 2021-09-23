@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96eab7b1-00d0-42b9-9ea9-de53dbc66d02" name="Default Changelist" comment="feat:first commit">
-      <change afterPath="$PROJECT_DIR$/Leetcode/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/刷题总结/leetcode常见处理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -56,7 +58,9 @@
       <updated>1631943602428</updated>
       <workItem from="1631943605433" duration="773000" />
       <workItem from="1631944395071" duration="2341000" />
-      <workItem from="1632318250135" duration="74000" />
+      <workItem from="1632318250135" duration="1355000" />
+      <workItem from="1632394780516" duration="198000" />
+      <workItem from="1632394993926" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="feat:first commit">
       <created>1631944690298</created>
@@ -65,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631944690298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat:first commit">
+      <created>1632318331747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632318331747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
