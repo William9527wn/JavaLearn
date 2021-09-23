@@ -1,7 +1,7 @@
-##leetcode常见处理
+leetcode常见处理
 -------------
-###一、对字符串进行处理
-####1、字符串和字符数组之间的转换
+一、对字符串进行处理
+1、字符串和字符数组之间的转换
 - 将字符串转换为字符数组
 ```java
 class Solution{
@@ -20,7 +20,7 @@ class Solution{
     }
 }
 ```
-####2、字符与整型变量的转换
+2、字符与整型变量的转换
 ```java
 class Sulution{
     public static void main(String[] args) {
@@ -32,7 +32,7 @@ class Sulution{
     }
 }
 ```
-####3、list与数组之间的转换
+3、list与数组之间的转换
 - 将list转换为数组
 
 ```java
