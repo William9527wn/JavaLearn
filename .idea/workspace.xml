@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96eab7b1-00d0-42b9-9ea9-de53dbc66d02" name="Default Changelist" comment="feat:first commit">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/刷题总结/leetcode常见处理.md" afterDir="false" />
+    <list default="true" id="96eab7b1-00d0-42b9-9ea9-de53dbc66d02" name="Default Changelist" comment="feat:book: leetcode常见处理.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +34,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -60,7 +60,8 @@
       <workItem from="1631944395071" duration="2341000" />
       <workItem from="1632318250135" duration="1355000" />
       <workItem from="1632394780516" duration="198000" />
-      <workItem from="1632394993926" duration="2745000" />
+      <workItem from="1632394993926" duration="4137000" />
+      <workItem from="1632488211512" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="feat:first commit">
       <created>1631944690298</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632318331747</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat:book: leetcode常见处理.md">
+      <created>1632405911534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632405911534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:first commit" />
+    <MESSAGE value="feat:book: leetcode常见处理.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:book: leetcode常见处理.md" />
   </component>
 </project>
